@@ -1,0 +1,16 @@
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Classes.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\Classes.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\directx9_imgui.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\directx9_imgui.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\dll_attach.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\dll_attach.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\features\Esp.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\Esp.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\imgui\imgui.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\imgui.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\imgui\imgui_demo.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\imgui_demo.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\imgui\imgui_draw.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\imgui_draw.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\imgui\imgui_impl_dx9.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\imgui_impl_dx9.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\imgui\imgui_impl_win32.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\imgui_impl_win32.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\imgui\imgui_widgets.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\imgui_widgets.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\min_hook\src\buffer.c;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\buffer.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\min_hook\src\hde\hde32.c;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\hde32.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\min_hook\src\hde\hde64.c;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\hde64.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\min_hook\src\hook.c;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\hook.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\min_hook\src\trampoline.c;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\trampoline.obj
+C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Overlay.cpp;C:\Users\ImPablo\source\repos\directx9_imgui\directx9_imgui\Debug\Overlay.obj

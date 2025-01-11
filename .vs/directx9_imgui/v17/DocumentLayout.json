@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\features\\Esp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|solutionrelative:directx9_imgui\\features\\Esp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\features\\Esp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|solutionrelative:directx9_imgui\\features\\Esp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\directx9_imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|solutionrelative:directx9_imgui\\directx9_imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\Overlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|solutionrelative:directx9_imgui\\Overlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\Overlay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|solutionrelative:directx9_imgui\\Overlay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\log\\log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{753075B1-25BA-4C6E-9C3D-03DF8165822E}|directx9_imgui\\directx9_imgui.vcxproj|solutionrelative:directx9_imgui\\log\\log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Overlay.cpp",
+              "DocumentMoniker": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\Overlay.cpp",
+              "RelativeDocumentMoniker": "directx9_imgui\\Overlay.cpp",
+              "ToolTip": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\Overlay.cpp",
+              "RelativeToolTip": "directx9_imgui\\Overlay.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAhwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T00:25:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Overlay.h",
+              "DocumentMoniker": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\Overlay.h",
+              "RelativeDocumentMoniker": "directx9_imgui\\Overlay.h",
+              "ToolTip": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\Overlay.h",
+              "RelativeToolTip": "directx9_imgui\\Overlay.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-10T00:23:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Esp.cpp",
+              "DocumentMoniker": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\features\\Esp.cpp",
+              "RelativeDocumentMoniker": "directx9_imgui\\features\\Esp.cpp",
+              "ToolTip": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\features\\Esp.cpp",
+              "RelativeToolTip": "directx9_imgui\\features\\Esp.cpp",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAkwD0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T20:45:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Esp.h",
+              "DocumentMoniker": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\features\\Esp.h",
+              "RelativeDocumentMoniker": "directx9_imgui\\features\\Esp.h",
+              "ToolTip": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\features\\Esp.h",
+              "RelativeToolTip": "directx9_imgui\\features\\Esp.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T20:41:56.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log.h",
+              "DocumentMoniker": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\log\\log.h",
+              "RelativeDocumentMoniker": "directx9_imgui\\log\\log.h",
+              "ToolTip": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\log\\log.h",
+              "RelativeToolTip": "directx9_imgui\\log\\log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T18:46:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "directx9_imgui.cpp",
+              "DocumentMoniker": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\directx9_imgui.cpp",
+              "RelativeDocumentMoniker": "directx9_imgui\\directx9_imgui.cpp",
+              "ToolTip": "C:\\Users\\ImPablo\\source\\repos\\directx9_imgui\\directx9_imgui\\directx9_imgui.cpp",
+              "RelativeToolTip": "directx9_imgui\\directx9_imgui.cpp",
+              "ViewState": "AgIAAIUAAAAAAAAAAADgvwUBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T03:16:27.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

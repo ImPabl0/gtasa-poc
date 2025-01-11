@@ -1,0 +1,22 @@
+﻿  directx9_imgui.cpp
+  dll_attach.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Gerando Código...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Gerando Código...
+directx9_imgui.obj : error LNK2019: símbolo externo não resolvido, Direct3DCreate9, referenciado na função "unsigned long __cdecl DirectXInit(void *)" (?DirectXInit@@YAKPEAX@Z)
+imgui_impl_win32.obj : error LNK2019: símbolo externo não resolvido, XInputGetState, referenciado na função "void __cdecl ImGui_ImplWin32_UpdateGamepads(void)" (?ImGui_ImplWin32_UpdateGamepads@@YAXXZ)
+imgui_impl_win32.obj : error LNK2019: símbolo externo não resolvido, XInputGetCapabilities, referenciado na função "void __cdecl ImGui_ImplWin32_UpdateGamepads(void)" (?ImGui_ImplWin32_UpdateGamepads@@YAXXZ)
+D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\xinput.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\ImPablo\source\repos\directx9_imgui\x64\Debug\directx9_imgui.dll : fatal error LNK1120: 3 externo não resolvidos
