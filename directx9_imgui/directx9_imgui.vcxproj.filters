@@ -116,4 +116,7 @@
     <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Overlay.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
 </Project>

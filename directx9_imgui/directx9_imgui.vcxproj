@@ -195,6 +195,9 @@
     <ClCompile Include="min_hook\src\trampoline.c" />
     <ClCompile Include="Overlay.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
